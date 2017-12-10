@@ -1,0 +1,12 @@
+c:\users\dima\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\dima\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\dima\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\dima\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\dima\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Dima\Documents\Універ\4\C#\6\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Dima\Documents\Універ\4\C#\6\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Dima\Documents\Універ\4\C#\6\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Dima\Documents\Універ\4\C#\6\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Dima\Documents\Універ\4\C#\6\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Dima\Documents\Універ\4\C#\6\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
